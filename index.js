@@ -1,2 +1,2 @@
 // Write your solution here!
-let apend => () {pets.push("Odie")}
+function apend() {pets.push("Odie")}
