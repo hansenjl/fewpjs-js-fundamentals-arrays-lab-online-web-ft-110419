@@ -1,2 +1,2 @@
 // Write your solution here!
-function apend() {pets.push("Odie")}
+function apend(arr) {arr.push("Odie")}
